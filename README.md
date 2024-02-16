@@ -21,7 +21,7 @@ If you need help use the issues tab but I do not guarantee quick responses or su
 
 ## Credits
 
-- [Lyaon](lyaon.github.io)
+- [Lyaon](https://lyaon.github.io/)
 
 ## License
 
