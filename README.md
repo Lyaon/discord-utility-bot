@@ -1,11 +1,11 @@
 # Discord Utility Bot
-
+**⚠️This bot is intented to be used on an individual server basis. Configuration for channels, etc is not supported for multiple servers.**
 ## Features
 
 - *Coming soon* **Moderation Tools:** Keep your server safe and friendly with a suite of moderation commands.
 - *Coming soon* **Fun Commands:** Spice up your server with a variety of fun and interactive commands, including games and memes.
 - **Utility Commands:** Use various commands such as reminders and suggestions to streamline your servers processes.
-- *Limited use* **Web Dashboard** Tailor [Bot Name] to fit your server's needs with customizable settings and commands.
+- *Limited use* **Web Dashboard:** Use the webdashboard to easily configure specfic settings for your bot.
 
 ## Getting Started
 
